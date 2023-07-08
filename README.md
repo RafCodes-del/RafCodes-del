@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RafCodes-del
 - 👀 I’m interested in Developing Games, Apps Languages
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Batch Developers
+- 💞️ I’m looking to collaborate on C#, Python Developers
 - 📫 How to reach me By Discord My Username is Rafplays#5116
 Also I Need Contributors For RafL
 <!---
